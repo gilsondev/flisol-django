@@ -1,0 +1,23 @@
+{
+  "name": "flisol-django",
+  "version": "1.0.0",
+  "description": "Slides da apresentacao de Django no FLISOL 2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilsondev/flisol-django.git"
+  },
+  "author": "Gilson Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsondev/flisol-django/issues"
+  },
+  "homepage": "https://github.com/gilsondev/flisol-django",
+  "devDependencies": {
+    "generator-reveal": "^0.4.0",
+    "yo": "^1.4.6"
+  }
+}
