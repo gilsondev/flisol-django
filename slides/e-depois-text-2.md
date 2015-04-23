@@ -1,1 +1,1 @@
-![Django Project Site](/slides/img/django_site.png)
+![Django Project Site](slides/img/django_site.png)
