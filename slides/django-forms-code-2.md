@@ -1,0 +1,8 @@
+```jinja
+<form action="/contact/" method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+
+    <input type="submit" value="Submit">
+</form>
+```
