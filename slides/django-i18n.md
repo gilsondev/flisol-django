@@ -1,2 +1,2 @@
-## I18N e I10N
+## I18N e L10N
 #### Internationalization and Localization
