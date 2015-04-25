@@ -12,8 +12,8 @@ def contact(request):
         if form.is_valid():
             # Processa os dados com form.cleaned_data...
             return HttpResponseRedirect('/thanks/')
-        else:
-            form = ContactForm()
+    else:
+        form = ContactForm()
 
     return render(request, 'contact.html', {'form': form})
 ```
